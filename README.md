@@ -2,7 +2,7 @@
 
 ## Overview
 
-This GitHub repository contains an interactive and innovative visualization of exo-planets data from NASA. The project aims to provide a visually engaging exhibit for museum visitors, presenting information about various exo-planets in a unique and creative manner.
+This GitHub repository contains an interactive and innovative visualization of exo-planets data from NASA. The project aims to provide a visually engaging exhibit for museum visitors, presenting information about various exo-planets in a unique and creative manner
 
 ## Features
 
