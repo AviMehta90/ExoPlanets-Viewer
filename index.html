@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Interactive Bubble Chart</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+        <style>
+            #tooltip {
+                position: absolute; 
+                text-align: center;
+                justify-content: center;
+                width: 160px;
+                padding: 5px;
+                background: white; 
+                border-radius: 5px;
+                pointer-events: none;
+                opacity: 0;
+                border: 2px solid black;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="container my-3">
+            <h1 class="text-center">Interactive Exo-Planets Viz.</h1>
+            <p class="text-center">Avi Mehta - 1225539835</p>
+            <p class="text-center">amehta65@asu.edu</p>
+        </header>
+
+        <div class="container">
+                <div class="col-md-12">
+                    <div class="chart-container">
+                        <h2 class="card-title">Bubble Chart</h2>
+                        <svg id="bubble-chart" width="900" height="500"></svg>
+                        <div id="legend_div"></div>
+                    </div>
+                </div>
+            <br>
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h2 class="card-title">Control Panel</h2>
+                        <div class="form-group">
+                            <button id="next" class="btn btn-primary">Next 10 Planets</button>
+                            <button id="prev" class="btn btn-primary">Previous 10 Planets</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="tooltip"></div>
+        <script src="index.js"></script>
+    </body>
+</html>

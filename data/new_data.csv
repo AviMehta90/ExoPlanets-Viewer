@@ -1,0 +1,53 @@
+,name,distance,stellar_magnitude,planet_type,discovery_year,mass_multiplier,mass_wrt,radius_multiplier,radius_wrt,orbital_radius,orbital_period,eccentricity,detection_method
+0,11 Comae Berenices b,304.0,4.72307,Gas Giant,2007,19.4,Jupiter,1.08,Jupiter,1.29,0.8925394,0.23,Radial Velocity
+1,11 Ursae Minoris b,409.0,5.013,Gas Giant,2009,14.74,Jupiter,1.09,Jupiter,1.53,1.4,0.08,Radial Velocity
+2,14 Andromedae b,246.0,5.23133,Gas Giant,2008,4.8,Jupiter,1.15,Jupiter,0.83,0.5086927,0.0,Radial Velocity
+3,14 Herculis b,58.0,6.61935,Gas Giant,2002,8.13881,Jupiter,1.12,Jupiter,2.773069,4.8,0.37,Radial Velocity
+4,16 Cygni B b,69.0,6.215,Gas Giant,1996,1.78,Jupiter,1.2,Jupiter,1.66,2.2,0.68,Radial Velocity
+5,17 Scorpii b,408.0,5.22606,Gas Giant,2020,4.32,Jupiter,1.15,Jupiter,1.45,1.6,0.06,Radial Velocity
+6,18 Delphini b,249.0,5.51048,Gas Giant,2008,10.3,Jupiter,1.11,Jupiter,2.6,2.7,0.08,Radial Velocity
+7,1RXS J160929.1-210524 b,454.0,12.618,Gas Giant,2008,8.0,Jupiter,1.664,Jupiter,330.0,6505.9,0.0,Direct Imaging
+8,24 Bootis b,313.0,5.59,Gas Giant,2018,0.91,Jupiter,1.24,Jupiter,0.19,0.08323066,0.04,Radial Velocity
+9,24 Sextantis b,235.0,6.4535,Gas Giant,2010,1.99,Jupiter,1.19,Jupiter,1.333,1.2396988,0.09,Radial Velocity
+10,24 Sextantis c,235.0,6.4535,Gas Giant,2010,0.86,Jupiter,1.24,Jupiter,2.08,2.4,0.29,Radial Velocity
+11,2M0437 b,419.0,16.186,Gas Giant,2021,4.0,Jupiter,1.16,Jupiter,118.0,3110.6,0.0,Direct Imaging
+12,2MASS J01033563-5515561 AB b,154.0,15.788,Gas Giant,2013,13.0,Jupiter,1.1,Jupiter,84.0,1767.2,0.0,Direct Imaging
+13,2MASS J01225093-2439505 b,110.0,14.244,Gas Giant,2013,24.5,Jupiter,1.0,Jupiter,52.0,593.2,0.0,Direct Imaging
+14,2MASS J12073346-3932539 b,210.0,20.15,Gas Giant,2004,5.0,Jupiter,1.15,Jupiter,55.0,2885.9,0.0,Direct Imaging
+15,2MASS J19383260+4603591 b,1293.0,12.651,Gas Giant,2015,1.9,Jupiter,1.2,Jupiter,0.92,1.1115674,0.33,Eclipse Timing Variations
+16,2MASS J22362452+4751425 b,227.0,12.368,Gas Giant,2016,12.5,Jupiter,1.1,Jupiter,230.0,4505.7,0.0,Direct Imaging
+17,30 Arietis B b,146.0,7.09209,Gas Giant,2009,13.82,Jupiter,1.1,Jupiter,0.99,0.9174538,0.29,Radial Velocity
+18,42 Draconis b,296.0,4.8262,Gas Giant,2008,3.88,Jupiter,1.16,Jupiter,1.19,1.3117043,0.38,Radial Velocity
+19,47 Ursae Majoris b,45.0,5.03352,Gas Giant,1996,2.53,Jupiter,1.18,Jupiter,2.1,3.0,0.03,Radial Velocity
+20,47 Ursae Majoris c,45.0,5.03352,Gas Giant,2001,0.54,Jupiter,1.27,Jupiter,3.6,6.6,0.1,Radial Velocity
+21,47 Ursae Majoris d,45.0,5.03352,Gas Giant,2009,1.64,Jupiter,1.2,Jupiter,11.6,38.4,0.16,Radial Velocity
+22,4 Ursae Majoris b,240.0,4.5801,Gas Giant,2006,7.1,Jupiter,1.13,Jupiter,0.87,0.7373032,0.43,Radial Velocity
+23,51 Eridani b,97.0,5.21149,Gas Giant,2015,2.0,Jupiter,1.19,Jupiter,13.2,32.0,0.45,Direct Imaging
+24,51 Pegasi b,50.0,5.45309,Gas Giant,1995,0.46,Jupiter,1.27,Jupiter,0.0527,0.011498973,0.01,Radial Velocity
+25,55 Cancri b,41.0,5.95084,Gas Giant,1996,0.8306,Jupiter,1.24,Jupiter,0.1134,0.040246405,0.0,Radial Velocity
+26,55 Cancri c,41.0,5.95084,Gas Giant,2004,0.1714,Jupiter,0.76,Jupiter,0.2373,0.12156058,0.03,Radial Velocity
+27,55 Cancri d,41.0,5.95084,Gas Giant,2002,3.878,Jupiter,1.16,Jupiter,5.957,15.3,0.13,Radial Velocity
+28,55 Cancri e,41.0,5.95084,Super Earth,2004,7.99,Earth,1.875,Earth,0.01544,0.0019164955,0.05,Radial Velocity
+29,55 Cancri f,41.0,5.95084,Gas Giant,2007,0.141,Jupiter,0.677,Jupiter,0.7708,0.7115674,0.08,Radial Velocity
+30,61 Virginis b,28.0,4.6955,Neptune-like,2009,5.1,Earth,2.11,Earth,0.050201,0.011498973,0.12,Radial Velocity
+31,61 Virginis c,28.0,4.6955,Neptune-like,2009,18.2,Earth,0.398,Jupiter,0.2175,0.10403833,0.14,Radial Velocity
+32,61 Virginis d,28.0,4.6955,Neptune-like,2009,22.9,Earth,0.456,Jupiter,0.476,0.33675563,0.35,Radial Velocity
+33,6 Lyncis b,178.0,5.87307,Gas Giant,2008,2.01,Jupiter,1.19,Jupiter,2.11,2.6,0.07,Radial Velocity
+34,70 Virginis b,58.0,4.96808,Gas Giant,1996,7.49,Jupiter,1.13,Jupiter,0.481,0.31950718,0.4,Radial Velocity
+35,75 Ceti b,271.0,5.3532,Gas Giant,2012,3.0,Jupiter,1.17,Jupiter,2.1,1.9,0.12,Radial Velocity
+36,7 Canis Majoris b,65.0,3.95,Gas Giant,2011,1.85,Jupiter,1.2,Jupiter,1.758,2.0,0.06,Radial Velocity
+37,7 Canis Majoris c,65.0,3.95,Gas Giant,2019,0.87,Jupiter,1.24,Jupiter,2.153,2.7,0.08,Radial Velocity
+38,81 Ceti b,330.0,5.64307,Gas Giant,2008,5.3,Jupiter,1.14,Jupiter,2.5,2.6,0.21,Radial Velocity
+39,8 Ursae Minoris b,530.0,6.83295,Gas Giant,2015,1.31,Jupiter,1.22,Jupiter,0.49,0.25571528,0.06,Radial Velocity
+40,91 Aquarii b,144.0,4.23946,Gas Giant,2013,3.2,Jupiter,1.17,Jupiter,0.7,0.4966461,0.03,Radial Velocity
+41,AB Aurigae b,529.0,7.076,Gas Giant,2022,9.0,Jupiter,1.12,Jupiter,93.9,587.7,0.4,Direct Imaging
+42,AB Pictoris b,163.0,9.13,Gas Giant,2005,13.5,Jupiter,1.1,Jupiter,260.0,4421.7,0.0,Direct Imaging
+43,Alpha Arietis b,66.0,2.00538,Gas Giant,2010,1.8,Jupiter,1.2,Jupiter,1.2,1.0425736,0.25,Radial Velocity
+44,Alpha Tauri b,67.0,0.872,Gas Giant,2015,6.47,Jupiter,1.13,Jupiter,1.46,1.7,0.1,Radial Velocity
+45,AU Microscopii b,32.0,8.81,Neptune-like,2020,20.12,Earth,0.363,Jupiter,0.0645,0.023271732,0.19,Transit
+46,AU Microscopii c,32.0,8.81,Neptune-like,2021,9.6,Earth,0.289,Jupiter,0.1101,0.051745377,0.04,Transit
+47,b Centauri AB b,320.0,4.01,Gas Giant,2021,10.9,Jupiter,1.11,Jupiter,556.0,4904.1,0.4,Direct Imaging
+48,BD-00 4475 b,139.0,9.01,Gas Giant,2021,25.05,Jupiter,1.07,Jupiter,1.48,2.0,0.39,Radial Velocity
+49,BD+03 2562 b,3492.0,9.577,Gas Giant,2017,6.4,Jupiter,1.13,Jupiter,1.3,1.3193703,0.2,Radial Velocity
+50,BD-06 1339 b,66.0,9.7,Neptune-like,2013,8.5,Earth,0.254,Jupiter,0.0428,0.010677618,0.0,Radial Velocity
+51,BD-06 1339 c,66.0,9.7,Gas Giant,2013,0.17,Jupiter,0.747,Jupiter,0.435,0.34469542,0.31,Radial Velocity
